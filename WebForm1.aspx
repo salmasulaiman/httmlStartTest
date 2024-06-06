@@ -18,6 +18,7 @@
               <h4>heading4</h4>
               <h5>heading5</h5>
               <h6>heading6</h6>
+            <h3>heading new </h3>
 
 
             <%--unordered list--%>
